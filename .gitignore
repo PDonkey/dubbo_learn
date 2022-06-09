@@ -1,0 +1,4 @@
+# Project exclude paths
+/conmuser/target/
+/dubbo-api/target/
+/provider/target/
