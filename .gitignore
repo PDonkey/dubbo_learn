@@ -2,3 +2,8 @@
 /conmuser/target/
 /dubbo-api/target/
 /provider/target/
+/.idea
+/dubbo_learn.iml
+/provider/provider.iml
+/dubbo-api/dubbo-api.iml
+/conmuser/conmuser.iml
